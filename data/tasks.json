@@ -1,0 +1,42 @@
+[
+  {
+    "completed": true,
+    "name": "Study React"
+  },
+  {
+    "completed": false,
+    "name": "Learning how to read"
+  },
+  {
+    "completed": true,
+    "name": "Complete Flask API project"
+  },
+  {
+    "completed": false,
+    "name": "Practice JavaScript algorithms"
+  },
+  {
+    "completed": true,
+    "name": "Deploy portfolio website"
+  },
+  {
+    "completed": false,
+    "name": "Write a blog on full-stack development"
+  },
+  {
+    "completed": true,
+    "name": "Set up Docker for a new project"
+  },
+  {
+    "completed": false,
+    "name": "Revise React state management"
+  },
+  {
+    "completed": true,
+    "name": "Contribute to an open-source project"
+  },
+  {
+    "completed": false,
+    "name": "Learn GraphQL basics"
+  }
+]
